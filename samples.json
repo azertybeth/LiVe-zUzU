@@ -1,3 +1,5 @@
 [
-{ "url":"ghost.wav","type":"audio","bank":"ghost","n":1}
+{ "url":"ghost.wav","type":"audio","bank":"ghost","n":1},
+{ "url":"cyber.wav","type":"audio","bank":"cyber","n":1},
+{ "url":"drumloophard.wav","type":"audio","bank":"dlhard","n":1}
 ]
