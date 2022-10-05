@@ -1,5 +1,19 @@
 [
-{ "url":"ghost.wav","type":"audio","bank":"ghost","n":1},
-{ "url":"cyber.wav","type":"audio","bank":"cyber","n":1},
-{ "url":"drumloophard.wav","type":"audio","bank":"dlhard","n":1}
+{ "url":"Sounds/Leads/cyber/1.wav","type":"audio","bank":"cyber","n":1},
+{ "url":"Sounds/Leads/cyber/2.wav","type":"audio","bank":"cyber","n":2},
+{ "url":"Sounds/Leads/cyber/3.wav","type":"audio","bank":"cyber","n":3},
+{ "url":"Sounds/Leads/cyber/4.wav","type":"audio","bank":"cyber","n":4},
+{ "url":"Sounds/Leads/cyber/5.wav","type":"audio","bank":"cyber","n":5},
+{ "url":"Sounds/Leads/cyber/6.wav","type":"audio","bank":"cyber","n":6},
+{ "url":"Sounds/Leads/cyber/7.wav","type":"audio","bank":"cyber","n":7},
+{ "url":"Sounds/Leads/cyber/8.wav","type":"audio","bank":"cyber","n":8},
+{ "url":"Sounds/Leads/cyber/9.wav","type":"audio","bank":"cyber","n":9},
+{ "url":"Sounds/Leads/cyber/10.wav","type":"audio","bank":"cyber","n":10},
+{ "url":"Sounds/Leads/cyber/11.wav","type":"audio","bank":"cyber","n":11},
+{ "url":"Sounds/Leads/cyber/12.wav","type":"audio","bank":"cyber","n":12},
+{ "url":"Sounds/Leads/cyber/13.wav","type":"audio","bank":"cyber","n":13},
+{ "url":"Drams/heavy/kick1.wav","type":"audio","bank":"heavy","n":1},
+{ "url":"Drams/heavy/snare1.wav","type":"audio","bank":"heavy","n":2},
+{ "url":"Sampls/Loops/hardloop/1.wav","type":"audio","bank":"hardloop","n":1},
+{ "url":"Sampls/Loops/hardloop/2.wav","type":"audio","bank":"hardloop","n":2}
 ]
